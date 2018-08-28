@@ -1,3 +1,30 @@
+body {
+    padding-bottom: 70px;
+    font-family: 'Josefin Sans', sans-serif; 
+    /* font-family: 'Crimson Text', serif;  */
+    /* font-family: 'News Cycle', sans-serif; */
+}
+.navbar-fixed {
+    height: 60px;
+}
+.wbstName {
+    font-size: 52px;
+    color: #1565c0;
+    padding-top: 80px;
+    margin-left: 2%;
+}
+ul {
+    margin-right: 2% !important;
+}
+.nbsty {
+    font-size: 25px;
+    color: #1565c0;
+}
+.act {
+    background-color: orange;
+    color: #333;
+    text-emphasis: bold;
+}
 .top {
     background-image: url("PHB_cover_art.jpg");
     width: 100%;
@@ -10,14 +37,9 @@ h1{
     margin: 30px;
     padding: 30px;
     margin-left: 30px;
-}
-.nbsty {
-    font-size: 25px;
-    color: #1565c0
-}
-.wbstName {
-    font-size: 40px;
-    color: #1565c0;
+    /* font-family: 'Almendra SC', serif; */
+    /* font-family: 'Macondo', cursive; */
+    font-family: 'Metal Mania', cursive;
 }
 .blogPosts {
     margin-top: 75px;
@@ -25,27 +47,35 @@ h1{
     margin-right: 20%;
     display: flex;
         flex-direction: column;
-        justify-content: center
+        justify-content: center;
+    font-family: 'Crimson Text', serif; 
+    /* font-family: 'News Cycle', sans-serif ; */
 }
+.title {
+    font-size: 32px;
+    text-align: center;
+
+}
+.addDate {
+    color: gray;
+    font-style: italic;
+    font-size: 20px;
+}
+p {
+    font-size: 24px
+} 
 .soon {
     font-family: 'Asap', sans-serif;
     text-align: center;
-    background-color: gray;
-    border: 4px groove #333333;
+    background-color: #616161;
+    padding: 75px;
+    border: 7px groove #333333;
     margin: 50px;
 }
-.active {
-    color: #e65100;
-}
-
-p1 {
-    font-size: 28px;
-    align-items: center;
-}
-p2 {
-    color: gray;
-    font-style: italic;
-}
-p {
-    font-size: 20px
+.footer {
+    background-color: #212121;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
 }
