@@ -8,13 +8,9 @@ body {
     height: 60px;
 }
 .wbstName {
-    font-size: 52px;
+    font-size: 36px;
     color: #1565c0;
-    padding-top: 80px;
     margin-left: 2%;
-}
-ul {
-    margin-right: 2% !important;
 }
 .nbsty {
     font-size: 25px;
