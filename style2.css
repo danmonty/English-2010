@@ -22,7 +22,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-
+    
 }
 .sideBar a {
     padding: 15px 15px 15px 15px;
@@ -38,7 +38,9 @@ body {
     background-color: #f1f1f1;
     color:#111
 }
-
+.active {
+    background-color: #3478b8;
+} 
 /* nav {
     width: 250px;
 }
@@ -74,9 +76,7 @@ li a:hover {
     background-color: #222;
 }
 
-.active {
-    background-color: #222;
-} */
+*/
 
 /* TOP PIC AND TITLE */
 .wbstName {
@@ -104,8 +104,25 @@ li a:hover {
     /* font-family: 'Macondo', cursive; */
     font-family: 'Metal Mania', cursive;
     font-size: 56px;
+    text-align: left;
+    padding-left: 45px;
     margin: 0 0 0 20px;
 }
+
+/* About Page Styles */
+.about {
+    margin-top: 75px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+    font-family: 'Crimson Text', serif; 
+    /* font-family: 'News Cycle', sans-serif ; */
+}
+.about p {
+    font-size: 24px
+} 
 
 /* BLOG POSTS */
 .blogPosts {
