@@ -1,0 +1,32 @@
+/* BLOG LANDING PAGE */
+.blogChoices {
+    font-family: 'Crimson Text', serif; 
+    font-size: 36px;
+    margin: 90px 20px 20px 10px;
+    text-align: center;
+}
+
+/* BLOG POSTS */
+.blogPosts {
+    margin-top: 75px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+    font-family: 'Crimson Text', serif; 
+    /* font-family: 'News Cycle', sans-serif ; */
+}
+.blogPosts .title {
+    font-size: 32px;
+    text-align: center;
+
+}
+.blogPosts .addDate {
+    color: gray;
+    font-style: italic;
+    font-size: 20px;
+}
+.blogPosts p {
+    font-size: 24px
+} 

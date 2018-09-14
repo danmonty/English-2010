@@ -1,0 +1,29 @@
+/* About Page Styles */
+.about {
+    margin-top: 75px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+    font-family: 'Crimson Text', serif; 
+    /* font-family: 'News Cycle', sans-serif ; */
+}
+.about p {
+    font-size: 24px
+} 
+.contact {
+    margin-top: 25px !important;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+.contact table {
+    text-align: center;
+    font-size: 24px;
+}
+.contact td {
+    padding: 10px;
+
+}
