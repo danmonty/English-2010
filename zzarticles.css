@@ -1,8 +1,8 @@
 /* Articles */
 .artBody {
     margin-top: 75px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     display: flex;
         flex-direction: column;
         justify-content: center;
