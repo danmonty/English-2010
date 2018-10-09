@@ -4,6 +4,15 @@
     font-size: 36px;
     margin: 90px 20px 20px 10px;
     text-align: center;
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+}
+.blogChoices a:link{
+    color: black;
+    text-decoration:  none;
+    padding: 10px;
+
 }
 
 /* BLOG POSTS */
