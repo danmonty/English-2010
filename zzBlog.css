@@ -25,8 +25,14 @@
 .blogPosts .addDate {
     color: gray;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
+    margin: 7px;
+    text-align: center
 }
 .blogPosts p {
-    font-size: 24px
+    font-size: 24px;
+    margin: 5px, 0, 5px, 0;
 } 
+.blogPosts p4{
+    font-size: 24px;
+}
