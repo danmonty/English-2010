@@ -9,9 +9,18 @@
         justify-content: center;
 }
 .blogChoices a:link{
-    color: black;
+    background-color: #3478b8;
+    color: #f1f1f1;
     text-decoration:  none;
     padding: 10px;
+    display: block;
+    border:5px solid #333333
+
+}
+.blogChoices a:hover{
+    color: #3478b8;
+    background-color: #333333;
+    border:5px solid #333333
 
 }
 
