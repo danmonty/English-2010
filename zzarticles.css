@@ -14,11 +14,16 @@
     text-align: center;
 
 }
+.artBody p2 {
+    font-size: 28px;
+    text-align: center;
+
+}
 .blogPosts .addDate {
     color: gray;
     font-style: italic;
     font-size: 20px;
 }
 .artBody p {
-    font-size: 24px
+    font-size: 22px
 } 
