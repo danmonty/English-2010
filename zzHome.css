@@ -43,9 +43,6 @@
 .container {
     padding: 2px 16px;
 }
-.container:hover {
-    box-shadow: 0 0 0 4px #3478b8;
-}
 .card a{
     text-decoration: none;
     color: black;
