@@ -1,2 +1,2 @@
 console.log("connected");
-// alert("We apologize for the missing pictures. We are currently working the bugs out!")
+alert("FYI: This page has content that may be confusing to new players")
