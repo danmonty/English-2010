@@ -55,8 +55,9 @@ body {
 
 }
 .top img{
-    max-width: 100%;
+    max-width: 120%;
     height: auto;
+    
 }
 .top h1{
     color: #f3f3f3;

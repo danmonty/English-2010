@@ -31,8 +31,15 @@
 .artBody p {
     font-size: 20px
 } 
+.artBody li {
+    font-size: 20px;
+}
 
 /* Two Column (classes) */
+.artBody table {
+    margin-left: 40px;
+    margin-right: 20px;
+}
 .artBody table td {
  margin-top: 15px;
  padding: 15px;
