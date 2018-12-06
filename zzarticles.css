@@ -10,29 +10,29 @@
     /* font-family: 'News Cycle', sans-serif ; */
 }
 .artBody p1 {
-    font-size: 36px;
+    font-size: 34px;
     text-align: center;
 
 }
 .artBody p2 {
-    font-size: 28px;
+    font-size: 26px;
     text-align: center;
 
 }
 .artBody p4 {
-    font-size: 32px;
+    font-size: 30px;
     text-align: center;
 }
 .blogPosts .addDate {
     color: gray;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
 }
 .artBody p {
-    font-size: 24px
+    font-size: 22px
 } 
 .artBody li {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 /* Two Column (classes) */
@@ -46,15 +46,15 @@
  vertical-align: top;
 }
 .artBody table p {
-    font-size: 20px
+    font-size: 22px
 } 
 .artBody table p1 {
-    font-size: 36px;
+    font-size: 34px;
     text-align: center;
 
 }
 .artBody table p2 {
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
 
 }

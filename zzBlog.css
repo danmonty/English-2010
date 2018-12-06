@@ -36,7 +36,7 @@
     /* font-family: 'News Cycle', sans-serif ; */
 }
 .blogPosts .title {
-    font-size: 36px;
+    font-size: 34px;
     text-align: center;
 
 }
@@ -48,9 +48,9 @@
     text-align: center
 }
 .blogPosts p {
-    font-size: 24px;
+    font-size: 22px;
     margin: 5px, 0, 5px, 0;
 } 
 .blogPosts p4{
-    font-size: 24px;
+    font-size: 22px;
 }
