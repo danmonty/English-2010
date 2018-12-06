@@ -62,3 +62,13 @@
     font-size: 30px;
     text-align: center;
 }
+.tableLeft {
+    float: left;
+    width: 42%;
+    height: 42%;
+}
+.tableRight {
+    float: right;
+    width: 42%;
+    height: 42%;
+}
