@@ -34,6 +34,21 @@
 .artBody li {
     font-size: 22px;
 }
+.createPics {
+    float: right;
+    margin: 4px;
+    width: 200px;
+    height: 295px;
+    border-radius: 25px;
+}
+.pics2 {
+    float: right;
+    margin: 4px;
+    width: 200px;
+    height: 210px;
+    border-radius: 25px;
+}
+
 
 /* Two Column (classes) */
 .artBody table {

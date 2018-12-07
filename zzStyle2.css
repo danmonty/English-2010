@@ -70,6 +70,11 @@ body {
     top: 80px;
     left: 180px;
 }
+/* CROSS PAGES TEXT STYLES */
+.extraMargin {
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
 /* THE COMING SOON MESSAGE */
 .soon {
